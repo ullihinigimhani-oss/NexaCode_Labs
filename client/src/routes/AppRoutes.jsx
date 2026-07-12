@@ -7,6 +7,7 @@ import HomePage from '../pages/HomePage.jsx';
 import NotFoundPage from '../pages/NotFoundPage.jsx';
 import PortfolioPage from '../pages/PortfolioPage.jsx';
 import ServicesPage from '../pages/ServicesPage.jsx';
+import UiPreviewPage from '../pages/UiPreviewPage.jsx';
 
 function AppRoutes() {
   return (
@@ -18,6 +19,7 @@ function AppRoutes() {
         <Route path="about" element={<AboutPage />} />
         <Route path="contact" element={<ContactPage />} />
         <Route path="brand-preview" element={<BrandPreviewPage />} />
+        <Route path="ui-preview" element={<UiPreviewPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Route>
     </Routes>
