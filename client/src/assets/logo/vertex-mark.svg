@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">Vertex Solutions mark</title>
+  <desc id="desc">A centered geometric V mark with a triangular vertex.</desc>
+  <path fill="#0B1220" d="M7 8h14l11 34-7 14L7 8Z"/>
+  <path fill="#2563EB" d="M57 8H43L32 42l7 14L57 8Z"/>
+  <path fill="#22D3EE" d="M32 4l12 21H20L32 4Z"/>
+</svg>
