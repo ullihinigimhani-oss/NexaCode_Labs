@@ -1,5 +1,5 @@
 import { Route, Routes } from 'react-router-dom';
-import MainLayout from '../layouts/MainLayout.jsx';
+import PublicLayout from '../layouts/PublicLayout.jsx';
 import AboutPage from '../pages/AboutPage.jsx';
 import BrandPreviewPage from '../pages/BrandPreviewPage.jsx';
 import ContactPage from '../pages/ContactPage.jsx';
@@ -12,7 +12,7 @@ import UiPreviewPage from '../pages/UiPreviewPage.jsx';
 function AppRoutes() {
   return (
     <Routes>
-      <Route element={<MainLayout />}>
+      <Route element={<PublicLayout />}>
         <Route index element={<HomePage />} />
         <Route path="services" element={<ServicesPage />} />
         <Route path="portfolio" element={<PortfolioPage />} />
