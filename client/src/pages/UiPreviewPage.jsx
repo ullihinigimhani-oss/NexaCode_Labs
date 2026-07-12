@@ -39,7 +39,7 @@ function UiPreviewPage() {
           <div className="space-y-4">
             <Logo className="w-64" />
             <SectionHeading
-              description="A focused component foundation for future Vertex Solutions pages."
+              description="A focused component foundation for future NexaCode Labs pages."
               eyebrow="UI Design System"
               title="Premium, practical interface primitives"
               titleAs="h1"
@@ -70,7 +70,7 @@ function UiPreviewPage() {
               </h3>
             </div>
             <p className="max-w-3xl text-base leading-7 text-brand-muted">
-              Vertex Solutions uses a measured visual system with strong contrast,
+              NexaCode Labs uses a measured visual system with strong contrast,
               restrained spacing and clean interaction states for international client work.
             </p>
           </Card>

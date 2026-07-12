@@ -90,7 +90,7 @@ function Footer() {
             <ul className="mt-4 space-y-4 text-sm text-slate-300">
               <li className="flex gap-3">
                 <Mail aria-hidden="true" className="mt-0.5 text-brand-cyan" size={17} />
-                <span>hello@vertexsolutions.lk</span>
+                <span>hello@nexacodelabs.com</span>
               </li>
               <li className="flex gap-3">
                 <Phone aria-hidden="true" className="mt-0.5 text-brand-cyan" size={17} />
@@ -106,7 +106,7 @@ function Footer() {
 
         <div className="mt-12 border-t border-white/10 pt-6">
           <div className="flex flex-col gap-4 text-sm text-slate-400 lg:flex-row lg:items-center lg:justify-between">
-            <p>© {currentYear} Vertex Solutions. All rights reserved.</p>
+            <p>Copyright {currentYear} NexaCode Labs. All rights reserved.</p>
             <div className="flex flex-wrap gap-x-5 gap-y-2">
               <span>Developer: Lihini Gimhani</span>
               <span>Strategic Sponsor: Pradeep Chamil</span>

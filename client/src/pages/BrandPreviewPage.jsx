@@ -1,5 +1,5 @@
 import Logo from '../components/common/Logo.jsx';
-import markLogoUrl from '../assets/logo/vertex-mark.svg';
+import markLogoUrl from '../assets/logo/nexacode-mark.svg';
 
 const iconSizes = [24, 32, 48, 64, 128];
 
@@ -18,7 +18,7 @@ function BrandPreviewPage() {
         <p className="text-sm font-medium uppercase tracking-wide text-slate-500">
           Brand Preview
         </p>
-        <h1 className="mt-3 text-3xl font-semibold">Vertex Solutions Logo</h1>
+        <h1 className="mt-3 text-3xl font-semibold">NexaCode Labs Logo</h1>
       </div>
 
       <div className="space-y-4">
@@ -42,7 +42,7 @@ function BrandPreviewPage() {
             <div key={size} className="flex flex-col items-center gap-3">
               <img
                 src={markLogoUrl}
-                alt={`Vertex Solutions mark at ${size}px`}
+                alt={`NexaCode Labs mark at ${size}px`}
                 style={{ width: `${size}px`, height: `${size}px` }}
               />
               <span className="text-sm text-slate-500">{size}px</span>
