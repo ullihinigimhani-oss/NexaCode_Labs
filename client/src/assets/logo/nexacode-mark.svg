@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">NexaCode Labs mark</title>
+  <desc id="desc">A centered geometric N mark with a connected code path.</desc>
+  <path fill="#0B1220" d="M10 50V14h11v36H10Z"/>
+  <path fill="#2563EB" d="M21 14h10l13 36H34L21 14Z"/>
+  <path fill="#2563EB" d="M43 50V14h11v36H43Z"/>
+  <path fill="none" stroke="#22D3EE" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M25 11h14l6 6-6 6H25"/>
+  <circle cx="25" cy="11" r="3" fill="#22D3EE"/>
+  <circle cx="39" cy="23" r="3" fill="#22D3EE"/>
+</svg>

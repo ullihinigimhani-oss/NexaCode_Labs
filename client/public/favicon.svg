@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="NexaCode Labs" shape-rendering="geometricPrecision">
+  <rect width="64" height="64" rx="12" fill="#0B1220"/>
+  <path fill="#FFFFFF" d="M12 50V14h10v36H12Z"/>
+  <path fill="#2563EB" d="M22 14h9l12 36h-9L22 14Z"/>
+  <path fill="#2563EB" d="M42 50V14h10v36H42Z"/>
+  <path fill="none" stroke="#22D3EE" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M26 12h12l5 5-5 5H26"/>
+</svg>

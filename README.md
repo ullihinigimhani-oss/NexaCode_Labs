@@ -1,8 +1,8 @@
-# Vertex Solutions
+# NexaCode Labs
 
-Vertex Solutions is a professional software development and freelancing agency
-website. This repository currently contains the initial frontend foundation for
-the public website.
+NexaCode Labs is a professional software development and freelancing agency
+website. This repository currently contains the frontend foundation for the
+public website.
 
 ## Planned Technology Stack
 
@@ -67,9 +67,9 @@ npm run preview
 
 ## Current Status
 
-- Vite React client created in `client/`
-- Tailwind CSS configured through the Vite plugin
-- React Router configured for the initial public routes
-- Placeholder pages created for Home, Services, Portfolio, About, Contact, and
+- Vite React client exists in `client/`
+- Tailwind CSS is configured through the Vite plugin
+- React Router is configured for the initial public routes
+- Placeholder pages exist for Home, Services, Portfolio, About, Contact, and
   Not Found
 - Backend and database work have not been started
