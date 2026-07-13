@@ -1,0 +1,11 @@
+{
+  "name": "nexacode-labs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export:brand-assets": "node scripts/export-brand-assets.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}
